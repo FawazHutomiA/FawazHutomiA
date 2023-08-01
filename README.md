@@ -38,24 +38,29 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=23316192)](https://github.com/FawazHutomiA)
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/FawazHutomiA)
 
+
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/FawazHutomiA)
 [![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933)](https://github.com/FawazHutomiA)
 [![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=593D88)](https://github.com/FawazHutomiA)
-[![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=B73BFE)](https://github.com/FawazHutomiA)
+[![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=646CFF)](https://github.com/FawazHutomiA)
 [![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-black?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)](https://github.com/FawazHutomiA)
 [![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/FawazHutomiA)
 [![Ant-Design](https://img.shields.io/badge/Ant%20Design-black?style=for-the-badge&logo=antdesign&logoColor=1890FF)](https://github.com/FawazHutomiA)
 [![React Query](https://img.shields.io/badge/-React%20Query-black?style=for-the-badge&logo=react%20query&logoColor=FF4154)](https://github.com/FawazHutomiA)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/FawazHutomiA)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://hub.docker.com/u/FawazHutomiA)
-[![Vue](https://img.shields.io/badge/Vue_vue-black?style=for-the-badge&logo=vue&logoColor=4FC08D)](https://hub.docker.com/u/FawazHutomiA)
+[![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://hub.docker.com/u/FawazHutomiA)
+[![Pinia](https://img.shields.io/badge/Pinia-black?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/FawazHutomiA)
+[![Axios](https://img.shields.io/badge/Axios-black?style=for-the-badge&logo=axios&logoColor=5A29E4)](https://github.com/axios/axios)
+[![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)](https://hub.docker.com/u/FawazHutomiA)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
 
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/FawazHutomiA)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/FawazHutomiA)
-[![Mac](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=Mac)](https://github.com/FawazHutomiA)
+[![Mac](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=apple)](https://github.com/FawazHutomiA)
 
 
 <details>
