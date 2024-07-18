@@ -59,7 +59,7 @@
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/FawazHutomiA)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=white)](https://github.com/FawazHutomiA)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/FawazHutomiA)
 [![Mac](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=apple)](https://github.com/FawazHutomiA)
 
 
