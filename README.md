@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Fawaz!.<br>
-        Frontend Engineer Expertise in VueJS and ReactJS.<br>
+        Fullstack Engineer Expertise in VueJS, ReactJS and Golang.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/fawaz-hutomi-abdurahman-7b1b12198/">
